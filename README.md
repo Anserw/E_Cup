@@ -1,0 +1,1 @@
+a score calculator for E cup
