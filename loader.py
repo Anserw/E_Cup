@@ -31,9 +31,13 @@ def loadBet(dir="bet_data"):
         ret[a_bet["ID"]] = a_bet
     return ret
 
+def loadPond(filename="pond.json"):
+    return loadJson(filename)
+
 
 if __name__ == "__main__":
     print loadPlayers()
     print loadTeam()
     print loadMatch()
     print loadBet()
+    print loadPond()
