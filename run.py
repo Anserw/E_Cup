@@ -9,7 +9,7 @@ def generate_markdown(players, pond, matches, teams, bets, filename="README.md")
     ISOTIMEFORMAT='%Y-%m-%d %X'
     md += "time: " + time.strftime( ISOTIMEFORMAT, time.localtime()) + '\n'
 
-    md += "|rank|name|score|\n|:---:|:---:|:---:|\n"
+    md += "\n|rank|name|score|\n|:---:|:---:|:---:|\n"
     rank = 0
     for player_name in sorted(players, key=lambda p: players[p], reverse=True):
         rank += 1
@@ -19,7 +19,7 @@ def generate_markdown(players, pond, matches, teams, bets, filename="README.md")
 
     md += "\n### History\n"
     for a_match in sorted(matches, cmp=lambda a, b: a["ID"] < b["ID"]):
-        md += "#### " + str(a_match["date"]) + ' ' + a_match["teamA"] + ' ' + str(a_match["scoreA"]) + \
+        md += "\n#### " + str(a_match["date"]) + ' ' + a_match["teamA"] + ' ' + str(a_match["scoreA"]) + \
               " : " + str(a_match["scoreB"]) + ' ' + a_match["teamB"] + '\n'
 
         if a_match["HandicapA"] == a_match["HandicapB"]:
@@ -27,7 +27,7 @@ def generate_markdown(players, pond, matches, teams, bets, filename="README.md")
         else:
             md += "handicap: " + str(a_match["HandicapA"]) + ' / ' + str(a_match["HandicapB"]) + '\n'
         md += "scorer: " + a_match["scorer"] + '\n'
-        md += "|name|guess|score change|\n|:---:|:---:|:---:|\n"
+        md += "\n|name|guess|score change|\n|:---:|:---:|:---:|\n"
         report = dict()
         pond_report = {"sum": 0}
         for player_name in players:

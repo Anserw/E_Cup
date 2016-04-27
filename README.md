@@ -1,6 +1,7 @@
 ## E cup guess competition report
 ### real-time ranking
-time: 2016-04-27 16:17:46
+time: 2016-04-27 16:22:00
+
 |rank|name|score|
 |:---:|:---:|:---:|
 |1|laotao|11.55|
@@ -16,9 +17,11 @@ time: 2016-04-27 16:17:46
 93.0
 
 ### History
+
 #### 20160501 France 3 : 1 England
 handicap: -1 / -1.5
 scorer: laotao
+
 |name|guess|score change|
 |:---:|:---:|:---:|
 |wan|England|-2|
@@ -30,9 +33,11 @@ scorer: laotao
 |dazuan|England|-2|
 |laotao|France|12.3|
 |Pond|..|-6.0|
+
 #### 20160501 France 2 : 1 England
 handicap: -1 / -1.5
 scorer: laotao
+
 |name|guess|score change|
 |:---:|:---:|:---:|
 |wan|England|0.95|
