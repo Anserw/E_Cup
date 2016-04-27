@@ -19,7 +19,7 @@ def generate_markdown(players, pond, matches, teams, bets, filename="README.md")
 
     md += "\n### History\n"
     for a_match in sorted(matches, cmp=lambda a, b: a["ID"] < b["ID"]):
-        md += "\n#### " + str(a_match["date"]) + ' ' + a_match["teamA"] + ' ' + str(a_match["scoreA"]) + \
+        md += "\n#### - " + str(a_match["date"]) + ' ' + a_match["teamA"] + ' ' + str(a_match["scoreA"]) + \
               " : " + str(a_match["scoreB"]) + ' ' + a_match["teamB"] + '\n'
 
         if a_match["HandicapA"] == a_match["HandicapB"]:
