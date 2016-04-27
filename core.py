@@ -8,6 +8,7 @@ def winner(teamA, teamB, scoreA, scoreB, handicap):
     else:
         return None
 
+
 def betReward(bet_data, winner_name, players):
     correct_count = 0
     wrong_count = 0
@@ -22,9 +23,8 @@ def betReward(bet_data, winner_name, players):
     return float(float(wrong_count) / correct_count)
 
 
-
 def process(players, teams, match_data, bet_data, pond):
-    winners = []
+    winners = list()
     winners.append(winner(match_data["teamA"],
                           match_data["teamB"],
                           match_data["scoreA"],
@@ -54,6 +54,4 @@ def process(players, teams, match_data, bet_data, pond):
 
                 else:
                     players[player] -= stack
-
-
     print players
