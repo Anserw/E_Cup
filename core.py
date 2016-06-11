@@ -47,7 +47,7 @@ def process(players, teams, match_data, bet_data, pond):
                     players[player] += correct_reward
                     players[match_data["scorer"]] += scorer_reward
 
-                    if teams[winner_name] == player:
+                    if teams[match_data["teamA"]] == player or teams[match_data["teamB"]] == player:
                         players[player] += correct_reward
                         pond["sum"] -= correct_reward + scorer_reward
                         players[match_data["scorer"]] += scorer_reward
