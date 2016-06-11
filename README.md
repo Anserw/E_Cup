@@ -1,17 +1,17 @@
 # E cup guess competition report
 ## real-time ranking
-2016-06-11 22:52:54
+2016-06-12 01:51:21
 
 |rank|name|score|
 |:---:|:---:|:---:|
-|1|laopai|6.97|
-|2|mother|4.43|
-|3|laoda|3.80|
-|4|wan|-1.37|
-|5|lc|-1.37|
-|6|xiaobai|-1.37|
-|7|laotao|-3.10|
-|8|dazuan|-4.00|
+|1|mother|6.33|
+|2|laopai|4.97|
+|3|laoda|1.80|
+|4|lc|0.53|
+|5|laotao|-0.80|
+|6|dazuan|-2.10|
+|7|wan|-3.37|
+|8|xiaobai|-3.37|
 
 ## Pond
 615.00
@@ -88,12 +88,12 @@
 
 |name|guess|score change|
 |:---:|:---:|:---:|
-|wan|Slovakia|0.00|
-|lc|Slovakia|0.00|
-|laoda|Slovakia|0.00|
-|xiaobai|Slovakia|0.00|
-|mother|Welsh|0.00|
-|laopai|Slovakia|0.00|
-|dazuan|Welsh|0.00|
-|laotao|Welsh|0.00|
+|wan|Slovakia|-2.00|
+|lc|Welsh|1.90|
+|laoda|Slovakia|-2.00|
+|xiaobai|Slovakia|-2.00|
+|mother|Welsh|1.90|
+|laopai|Slovakia|-2.00|
+|dazuan|Welsh|1.90|
+|laotao|Welsh|2.30|
 |Pond|..|0.00|
