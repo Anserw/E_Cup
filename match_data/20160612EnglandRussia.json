@@ -1,12 +1,12 @@
 {
   "ID":"20160612EnglandRussia",
   "teamA":"England",
-  "scoreA":2,
+  "scoreA":1,
   "teamB":"Russia",
   "scoreB":1,
   "date":20160612,
-  "HandicapA":0.5,
-  "HandicapB":0.5,
-  "weight":0,
+  "HandicapA":-0.5,
+  "HandicapB":-0.5,
+  "weight":2,
   "scorer":"laotao"
 }
