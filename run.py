@@ -18,7 +18,7 @@ def generate_markdown(players, pond, matches, teams, bets, filename="README.md")
     md += "\n## Pond\n" + "%.2f" % pond["sum"] + '\n'
 
     md += "\n## History\n"
-    for a_match in sorted(matches, cmp=lambda a, b: a["ID"] < b["ID"]):
+    for a_match in sorted(matches, cmp=lambda a, b: cmp(a["date"], b["date"])):
         md += "\n### " + str(a_match["date"]) + ' ' + a_match["teamA"] + ' ' + str(a_match["scoreA"]) + \
               " : " + str(a_match["scoreB"]) + ' ' + a_match["teamB"] + '\n'
 
@@ -71,3 +71,5 @@ if __name__ == "__main__":
     # print "result", players
     # print "report", report
     generate_markdown(players, pond, matches, teams, bets)
+
+
