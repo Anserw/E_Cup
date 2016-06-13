@@ -1,6 +1,6 @@
 # E cup guess competition report
 ## real-time ranking
-2016-06-13 14:46:09
+2016-06-13 16:11:26
 
 |rank|name|score|
 |:---:|:---:|:---:|
@@ -17,7 +17,7 @@
 611.27
 
 ## History
-
+![image](https://github.com/Anserw/E_Cup/blob/master/plot.jpg)
 ### 2016061303 Germany 2 : 0 Ukraine
 - handicap: -1
 - scorer: laotao

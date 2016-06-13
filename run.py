@@ -1,6 +1,7 @@
 import loader
 import core
 import time
+import plot
 
 def generate_markdown(players, pond, matches, teams, bets, filename="README.md"):
     md = u'''# E cup guess competition report
@@ -18,6 +19,9 @@ def generate_markdown(players, pond, matches, teams, bets, filename="README.md")
     md += "\n## Pond\n" + "%.2f" % pond["sum"] + '\n'
 
     md += "\n## History\n"
+
+    md += "![image](https://github.com/Anserw/E_Cup/blob/master/plot.jpg)"
+
     for a_match in sorted(matches, cmp=lambda a, b: cmp(a["date"], b["date"]), reverse=True):
         if a_match["weight"] > 0:
             md += "\n### " + str(a_match["date"]) + ' ' + a_match["teamA"] + ' ' + str(a_match["scoreA"]) + \
@@ -71,6 +75,7 @@ if __name__ == "__main__":
         # reports["ID"] = report
     # print "result", players
     # print "report", report
+    plot.generate_plot(players, pond, matches, teams, bets)
     generate_markdown(players, pond, matches, teams, bets)
 
 
