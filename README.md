@@ -1,23 +1,43 @@
 # E cup guess competition report
 ## real-time ranking
-2016-06-14 02:41:24
+2016-06-14 04:50:37
 
 |rank|name|score|
 |:---:|:---:|:---:|
-|1|laotao|12.87|
-|2|laopai|10.73|
-|3|mother|1.00|
-|4|laoda|-1.13|
-|5|wan|-1.87|
-|6|dazuan|-2.33|
-|7|lc|-4.07|
-|8|xiaobai|-5.47|
+|1|laopai|14.07|
+|2|laotao|10.87|
+|3|laoda|2.20|
+|4|wan|1.47|
+|5|mother|-1.00|
+|6|dazuan|-4.33|
+|7|lc|-6.07|
+|8|xiaobai|-7.47|
 
 ## Pond
 609.27
 
 ## History
 ![image](https://github.com/Anserw/E_Cup/blob/master/plot.jpg)
+### 2016061403 Belgium 0 : 2 Italy
+- handicap: -0.5 / 0
+- scorer: laotao
+- owners:
+ - Belgium: lc
+ - Italy: xiaobai
+
+
+|name|guess|score change|
+|:---:|:---:|:---:|
+|wan|Italy|3.33|
+|lc|Belgium|-2.00|
+|laoda|Italy|3.33|
+|xiaobai|Belgium|-2.00|
+|mother|Belgium|-2.00|
+|laopai|Italy|3.33|
+|dazuan|Belgium|-2.00|
+|laotao|Belgium|-2.00|
+|Pond|..|0.00|
+
 ### 2016061400 Ireland 1 : 1 Sweden
 - handicap: 0 / 0.5
 - scorer: laotao
