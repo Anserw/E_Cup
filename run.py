@@ -75,7 +75,10 @@ if __name__ == "__main__":
         # reports["ID"] = report
     # print "result", players
     # print "report", report
-    plot.generate_plot(players, pond, matches, teams, bets)
+    try:
+        plot.generate_plot(players, pond, matches, teams, bets)
+    except:
+        print "Error: cannot draw a plot!"
     generate_markdown(players, pond, matches, teams, bets)
 
 
