@@ -1,24 +1,24 @@
 # E cup guess competition report
 ## real-time ranking
-2016-06-13 22:57:47
+2016-06-13 23:01:20
 
 |rank|name|score|
 |:---:|:---:|:---:|
-|1|laotao|10.87|
-|2|laopai|10.40|
-|3|mother|1.00|
-|4|dazuan|0.33|
-|5|laoda|-1.13|
-|6|wan|-2.20|
-|7|lc|-4.07|
-|8|xiaobai|-7.47|
+|1|laotao|11.87|
+|2|laopai|8.73|
+|3|mother|2.00|
+|4|laoda|-0.13|
+|5|dazuan|-1.33|
+|6|lc|-3.07|
+|7|wan|-3.87|
+|8|xiaobai|-6.47|
 
 ## Pond
 611.27
 
 ## History
 ![image](https://github.com/Anserw/E_Cup/blob/master/plot.jpg)
-### 2016061321 Spain 0 : 0 Czech
+### 2016061321 Spain 1 : 0 Czech
 - handicap: -1 / -1.5
 - scorer: laotao
 - owners:
@@ -28,14 +28,14 @@
 
 |name|guess|score change|
 |:---:|:---:|:---:|
-|wan|Czech|3.33|
-|lc|Spain|-2.00|
-|laoda|Spain|-2.00|
-|xiaobai|Spain|-2.00|
-|mother|Spain|-2.00|
-|laopai|Czech|3.33|
-|dazuan|Czech|3.33|
-|laotao|Spain|-2.00|
+|wan|Czech|1.67|
+|lc|Spain|-1.00|
+|laoda|Spain|-1.00|
+|xiaobai|Spain|-1.00|
+|mother|Spain|-1.00|
+|laopai|Czech|1.67|
+|dazuan|Czech|1.67|
+|laotao|Spain|-1.00|
 |Pond|..|0.00|
 
 ### 2016061303 Germany 2 : 0 Ukraine
