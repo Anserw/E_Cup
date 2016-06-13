@@ -1,20 +1,20 @@
 # E cup guess competition report
 ## real-time ranking
-2016-06-13 13:42:52
+2016-06-13 14:44:13
 
 |rank|name|score|
 |:---:|:---:|:---:|
-|1|laotao|13.95|
-|2|laopai|5.89|
-|3|mother|1.95|
-|4|laoda|0.27|
-|5|lc|-2.59|
+|1|laotao|14.42|
+|2|laopai|6.62|
+|3|mother|2.68|
+|4|laoda|0.63|
+|5|lc|-2.22|
 |6|dazuan|-3.20|
-|7|wan|-3.36|
-|8|xiaobai|-5.93|
+|7|xiaobai|-5.57|
+|8|wan|-5.63|
 
 ## Pond
-612.03
+611.27
 
 ## History
 
@@ -68,15 +68,15 @@
 
 |name|guess|score change|
 |:---:|:---:|:---:|
-|wan|Croatia|0.27|
-|lc|Croatia|0.27|
-|laoda|Croatia|0.27|
-|xiaobai|Croatia|0.27|
-|mother|Croatia|0.55|
-|laopai|Croatia|0.55|
+|wan|Turkey|-2.00|
+|lc|Croatia|0.64|
+|laoda|Croatia|0.64|
+|xiaobai|Croatia|0.64|
+|mother|Croatia|1.28|
+|laopai|Croatia|1.28|
 |dazuan|Turkey|-2.00|
-|laotao|Croatia|0.38|
-|Pond|..|-0.57|
+|laotao|Croatia|0.85|
+|Pond|..|-1.33|
 
 ### 2016061203 England 1 : 1 Russia
 - handicap: -0.5
