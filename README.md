@@ -1,6 +1,6 @@
 # E cup guess competition report
 ## real-time ranking
-2016-06-13 13:29:38
+2016-06-13 13:42:52
 
 |rank|name|score|
 |:---:|:---:|:---:|
