@@ -41,7 +41,7 @@ def process(players, teams, match_data, bet_data, pond):
                 stack = match_data["weight"] / 2
                 correct_reward = betReward(bet_data, winner_name, players) * stack
                 if match_data["scorer"] is not None:
-                    scorer_reward = float(correct_reward * 0.04)
+                    scorer_reward = float(correct_reward * 0.0)
                     correct_reward -= scorer_reward
                 if bet_data[player] == winner_name:
                     players[player] += correct_reward
