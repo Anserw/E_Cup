@@ -8,10 +8,11 @@ def loadJsonsFromDir(dir):
     filelist = os.listdir(dir)
     ret = []
     for filename in filelist:
-        try:
-            ret.append(loadJson(dir + '/' + filename))
-        except:
-            print filename + " is not a json data!"
+        if filename.split('.')[-1] == 'json':
+            try:
+                ret.append(loadJson(dir + '/' + filename))
+            except:
+                print filename + " is not a json data!"
     return ret
 
 
