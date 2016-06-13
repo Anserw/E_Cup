@@ -1,23 +1,43 @@
 # E cup guess competition report
 ## real-time ranking
-2016-06-13 23:01:20
+2016-06-14 02:41:24
 
 |rank|name|score|
 |:---:|:---:|:---:|
-|1|laotao|11.87|
-|2|laopai|8.73|
-|3|mother|2.00|
-|4|laoda|-0.13|
-|5|dazuan|-1.33|
-|6|lc|-3.07|
-|7|wan|-3.87|
-|8|xiaobai|-6.47|
+|1|laotao|12.87|
+|2|laopai|10.73|
+|3|mother|1.00|
+|4|laoda|-1.13|
+|5|wan|-1.87|
+|6|dazuan|-2.33|
+|7|lc|-4.07|
+|8|xiaobai|-5.47|
 
 ## Pond
-611.27
+609.27
 
 ## History
 ![image](https://github.com/Anserw/E_Cup/blob/master/plot.jpg)
+### 2016061400 Ireland 1 : 1 Sweden
+- handicap: 0 / 0.5
+- scorer: laotao
+- owners:
+ - Ireland: laopai
+ - Sweden: wan
+
+
+|name|guess|score change|
+|:---:|:---:|:---:|
+|wan|Ireland|2.00|
+|lc|Sweden|-1.00|
+|laoda|Sweden|-1.00|
+|xiaobai|Ireland|1.00|
+|mother|Sweden|-1.00|
+|laopai|Ireland|2.00|
+|dazuan|Sweden|-1.00|
+|laotao|Ireland|1.00|
+|Pond|..|-2.00|
+
 ### 2016061321 Spain 1 : 0 Czech
 - handicap: -1 / -1.5
 - scorer: laotao
