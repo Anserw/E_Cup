@@ -80,5 +80,6 @@ if __name__ == "__main__":
     except:
         print "Error: cannot draw a plot!"
     generate_markdown(players, pond, matches, teams, bets)
+    print "all done."
 
 

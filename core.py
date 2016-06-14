@@ -54,4 +54,3 @@ def process(players, teams, match_data, bet_data, pond):
 
                 else:
                     players[player] -= stack
-    print players
