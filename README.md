@@ -1,23 +1,43 @@
 # E cup guess competition report
 ## real-time ranking
-2016-06-14 16:15:43
+2016-06-15 01:52:45
 
 |rank|name|score|
 |:---:|:---:|:---:|
-|1|laopai|14.07|
-|2|laotao|10.87|
-|3|laoda|2.20|
-|4|wan|1.47|
-|5|mother|-1.00|
-|6|dazuan|-4.33|
-|7|lc|-6.07|
-|8|xiaobai|-7.47|
+|1|laotao|38.87|
+|2|laopai|12.07|
+|3|laoda|0.20|
+|4|wan|-0.53|
+|5|mother|-3.00|
+|6|dazuan|-6.33|
+|7|lc|-8.07|
+|8|xiaobai|-9.47|
 
 ## Pond
-609.27
+595.27
 
 ## History
 ![image](https://github.com/Anserw/E_Cup/blob/master/plot.jpg)
+### 2016061500 Austria 0 : 2 Hungary
+- handicap: -0.5 / -1
+- scorer: laotao
+- owners:
+ - Austria: laopai
+ - Hungary: laotao
+
+
+|name|guess|score change|
+|:---:|:---:|:---:|
+|wan|Austria|-2.00|
+|lc|Austria|-2.00|
+|laoda|Austria|-2.00|
+|xiaobai|Austria|-2.00|
+|mother|Austria|-2.00|
+|laopai|Austria|-2.00|
+|dazuan|Austria|-2.00|
+|laotao|Hungary|28.00|
+|Pond|..|-14.00|
+
 ### 2016061403 Belgium 0 : 2 Italy
 - handicap: -0.5 / 0
 - scorer: laotao

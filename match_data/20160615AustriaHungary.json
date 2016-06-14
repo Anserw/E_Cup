@@ -1,12 +1,12 @@
 {
   "ID":"20160615AustriaHungary",
   "teamA":"Austria",
-  "scoreA":1,
+  "scoreA":0,
   "teamB":"Hungary",
-  "scoreB":1,
+  "scoreB":2,
   "date":2016061500,
   "HandicapA":-0.5,
   "HandicapB":-1,
-  "weight":0,
+  "weight":2,
   "scorer":"laotao"
 }
