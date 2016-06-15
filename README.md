@@ -1,23 +1,43 @@
 # E cup guess competition report
 ## real-time ranking
-2016-06-15 02:28:22
+2016-06-15 11:25:07
 
 |rank|name|score|
 |:---:|:---:|:---:|
-|1|laotao|38.87|
-|2|laopai|12.07|
-|3|laoda|0.20|
-|4|wan|-0.53|
-|5|mother|-3.00|
-|6|dazuan|-6.33|
-|7|lc|-8.07|
-|8|xiaobai|-9.47|
+|1|laotao|36.87|
+|2|laopai|18.07|
+|3|mother|3.00|
+|4|laoda|-1.80|
+|5|wan|-2.53|
+|6|dazuan|-8.33|
+|7|lc|-10.07|
+|8|xiaobai|-11.47|
 
 ## Pond
 595.27
 
 ## History
 ![image](https://github.com/Anserw/E_Cup/blob/master/plot.jpg)
+### 2016061503 Portugal 1 : 1 Iceland
+- handicap: -1
+- scorer: laotao
+- owners:
+ - Portugal: laoda
+ - Iceland: xiaobai
+
+
+|name|guess|score change|
+|:---:|:---:|:---:|
+|wan|Portugal|-2.00|
+|lc|Portugal|-2.00|
+|laoda|Portugal|-2.00|
+|xiaobai|Portugal|-2.00|
+|mother|Iceland|6.00|
+|laopai|Iceland|6.00|
+|dazuan|Portugal|-2.00|
+|laotao|Portugal|-2.00|
+|Pond|..|0.00|
+
 ### 2016061500 Austria 0 : 2 Hungary
 - handicap: -0.5 / -1
 - scorer: laotao
