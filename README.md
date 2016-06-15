@@ -1,16 +1,16 @@
 # E cup guess competition report
 ## real-time ranking
-2016-06-15 11:25:07
+2016-06-15 12:33:24
 
 |rank|name|score|
 |:---:|:---:|:---:|
 |1|laotao|36.87|
 |2|laopai|18.07|
-|3|mother|3.00|
-|4|laoda|-1.80|
+|3|laoda|-1.80|
+|4|lc|-2.07|
 |5|wan|-2.53|
-|6|dazuan|-8.33|
-|7|lc|-10.07|
+|6|mother|-5.00|
+|7|dazuan|-8.33|
 |8|xiaobai|-11.47|
 
 ## Pond
@@ -29,10 +29,10 @@
 |name|guess|score change|
 |:---:|:---:|:---:|
 |wan|Portugal|-2.00|
-|lc|Portugal|-2.00|
+|lc|Iceland|6.00|
 |laoda|Portugal|-2.00|
 |xiaobai|Portugal|-2.00|
-|mother|Iceland|6.00|
+|mother|Portugal|-2.00|
 |laopai|Iceland|6.00|
 |dazuan|Portugal|-2.00|
 |laotao|Portugal|-2.00|
