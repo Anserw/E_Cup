@@ -1,23 +1,43 @@
 # E cup guess competition report
 ## real-time ranking
-2016-06-15 22:55:21
+2016-06-16 01:52:55
 
 |rank|name|score|
 |:---:|:---:|:---:|
-|1|laotao|37.53|
-|2|laopai|19.40|
-|3|laoda|-1.13|
-|4|lc|-1.40|
-|5|wan|-1.87|
-|6|mother|-7.00|
-|7|dazuan|-10.33|
-|8|xiaobai|-10.80|
+|1|laotao|36.53|
+|2|laopai|22.73|
+|3|laoda|0.53|
+|4|lc|-2.40|
+|5|wan|-2.87|
+|6|mother|-8.00|
+|7|xiaobai|-9.13|
+|8|dazuan|-11.33|
 
 ## Pond
-594.60
+592.93
 
 ## History
 ![image](https://github.com/Anserw/E_Cup/blob/master/plot.jpg)
+### 2016061600 Romania 1 : 1 Switzerland
+- handicap: 0 / 0.5
+- scorer: laotao
+- owners:
+ - Romania: laopai
+ - Switzerland: laotao
+
+
+|name|guess|score change|
+|:---:|:---:|:---:|
+|wan|Switzerland|-1.00|
+|lc|Switzerland|-1.00|
+|laoda|Romania|1.67|
+|xiaobai|Romania|1.67|
+|mother|Switzerland|-1.00|
+|laopai|Romania|3.33|
+|dazuan|Switzerland|-1.00|
+|laotao|Switzerland|-1.00|
+|Pond|..|-1.67|
+
 ### 2016061521 Russia 1 : 2 Slovakia
 - handicap: 0 / -0.5
 - scorer: laotao
