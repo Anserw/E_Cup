@@ -1,6 +1,6 @@
 # E cup guess competition report
 ## real-time ranking
-2016-06-16 22:59:35
+2016-06-16 23:08:20
 
 |rank|name|score|
 |:---:|:---:|:---:|
@@ -28,14 +28,14 @@
 
 |name|guess|score change|
 |:---:|:---:|:---:|
-|wan|France|0.00|
-|lc|Albania|0.00|
-|laoda|France|0.00|
-|xiaobai|Albania|0.00|
-|mother|Albania|0.00|
-|laopai|Albania|0.00|
-|dazuan|Albania|0.00|
-|laotao|France|0.00|
+|wan|England|0.00|
+|lc|Welsh|0.00|
+|laoda|Welsh|0.00|
+|xiaobai|Welsh|0.00|
+|mother|England|0.00|
+|laopai|England|0.00|
+|dazuan|England|0.00|
+|laotao|Welsh|0.00|
 |Pond|..|0.00|
 
 ### 2016061603 France 2 : 0 Albania
