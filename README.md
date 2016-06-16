@@ -1,23 +1,43 @@
 # E cup guess competition report
 ## real-time ranking
-2016-06-16 01:52:55
+2016-06-16 12:00:10
 
 |rank|name|score|
 |:---:|:---:|:---:|
-|1|laotao|36.53|
-|2|laopai|22.73|
-|3|laoda|0.53|
-|4|lc|-2.40|
-|5|wan|-2.87|
-|6|mother|-8.00|
-|7|xiaobai|-9.13|
-|8|dazuan|-11.33|
+|1|laotao|39.87|
+|2|laopai|21.73|
+|3|laoda|2.20|
+|4|wan|-1.20|
+|5|lc|-3.40|
+|6|mother|-9.00|
+|7|xiaobai|-10.13|
+|8|dazuan|-12.33|
 
 ## Pond
-592.93
+591.27
 
 ## History
 ![image](https://github.com/Anserw/E_Cup/blob/master/plot.jpg)
+### 2016061603 France 2 : 0 Albania
+- handicap: -1.5 / -2
+- scorer: laotao
+- owners:
+ - France: laotao
+ - Albania: mother
+
+
+|name|guess|score change|
+|:---:|:---:|:---:|
+|wan|France|1.67|
+|lc|Albania|-1.00|
+|laoda|France|1.67|
+|xiaobai|Albania|-1.00|
+|mother|Albania|-1.00|
+|laopai|Albania|-1.00|
+|dazuan|Albania|-1.00|
+|laotao|France|3.33|
+|Pond|..|-1.67|
+
 ### 2016061600 Romania 1 : 1 Switzerland
 - handicap: 0 / 0.5
 - scorer: laotao
