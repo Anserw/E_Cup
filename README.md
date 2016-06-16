@@ -1,6 +1,6 @@
 # E cup guess competition report
 ## real-time ranking
-2016-06-16 16:52:14
+2016-06-16 22:59:35
 
 |rank|name|score|
 |:---:|:---:|:---:|
@@ -18,6 +18,26 @@
 
 ## History
 ![image](https://github.com/Anserw/E_Cup/blob/master/plot.jpg)
+### 2016061621 England 2 : 1 Welsh
+- handicap: -1
+- scorer: laotao
+- owners:
+ - England: mother
+ - Welsh: xiaobai
+
+
+|name|guess|score change|
+|:---:|:---:|:---:|
+|wan|France|0.00|
+|lc|Albania|0.00|
+|laoda|France|0.00|
+|xiaobai|Albania|0.00|
+|mother|Albania|0.00|
+|laopai|Albania|0.00|
+|dazuan|Albania|0.00|
+|laotao|France|0.00|
+|Pond|..|0.00|
+
 ### 2016061603 France 2 : 0 Albania
 - handicap: -1.5 / -2
 - scorer: laotao
