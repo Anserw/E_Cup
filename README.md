@@ -1,23 +1,43 @@
 # E cup guess competition report
 ## real-time ranking
-2016-06-17 12:03:51
+2016-06-17 22:56:09
 
 |rank|name|score|
 |:---:|:---:|:---:|
-|1|laotao|35.87|
-|2|laopai|27.73|
-|3|laoda|2.20|
-|4|lc|0.60|
-|5|xiaobai|-4.13|
-|6|wan|-5.20|
-|7|mother|-9.00|
-|8|dazuan|-16.33|
+|1|laotao|37.07|
+|2|laopai|25.73|
+|3|lc|1.80|
+|4|laoda|0.20|
+|5|xiaobai|-1.73|
+|6|wan|-2.80|
+|7|mother|-7.80|
+|8|dazuan|-18.33|
 
 ## Pond
-587.27
+584.87
 
 ## History
 ![image](https://github.com/Anserw/E_Cup/blob/master/plot.jpg)
+### 2016061721 Italy 1 : 0 Sweden
+- handicap: -0.5
+- scorer: laotao
+- owners:
+ - Italy: xiaobai
+ - Sweden: wan
+
+
+|name|guess|score change|
+|:---:|:---:|:---:|
+|wan|Italy|2.40|
+|lc|Italy|1.20|
+|laoda|Sweden|-2.00|
+|xiaobai|Italy|2.40|
+|mother|Italy|1.20|
+|laopai|Sweden|-2.00|
+|dazuan|Sweden|-2.00|
+|laotao|Italy|1.20|
+|Pond|..|-2.40|
+
 ### 2016061703 Germany 0 : 0 Poland
 - handicap: -1
 - scorer: laotao

@@ -3,10 +3,10 @@
     "HandicapB": -0.5, 
     "ID": "20160617ItalySweden", 
     "date": "2016061721", 
-    "scoreA": 0, 
+    "scoreA": 1,
     "scoreB": 0, 
     "scorer": "laotao", 
     "teamA": "Italy", 
     "teamB": "Sweden", 
-    "weight": 0
+    "weight": 2
 }
