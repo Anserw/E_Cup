@@ -1,24 +1,44 @@
 # E cup guess competition report
 ## real-time ranking
-2016-06-17 02:47:21
+2016-06-17 12:03:51
 
 |rank|name|score|
 |:---:|:---:|:---:|
-|1|laotao|37.87|
-|2|laopai|25.73|
-|3|laoda|0.20|
-|4|lc|-1.40|
-|5|wan|-3.20|
-|6|mother|-7.00|
-|7|xiaobai|-8.13|
-|8|dazuan|-14.33|
+|1|laotao|35.87|
+|2|laopai|27.73|
+|3|laoda|2.20|
+|4|lc|0.60|
+|5|xiaobai|-4.13|
+|6|wan|-5.20|
+|7|mother|-9.00|
+|8|dazuan|-16.33|
 
 ## Pond
-589.27
+587.27
 
 ## History
 ![image](https://github.com/Anserw/E_Cup/blob/master/plot.jpg)
-### 2016061703 Ukraine 0 : 2 NorthernIreland
+### 2016061703 Germany 0 : 0 Poland
+- handicap: -1
+- scorer: laotao
+- owners:
+ - Germany: dazuan
+ - Poland: xiaobai
+
+
+|name|guess|score change|
+|:---:|:---:|:---:|
+|wan|Germany|-2.00|
+|lc|Poland|2.00|
+|laoda|Poland|2.00|
+|xiaobai|Poland|4.00|
+|mother|Germany|-2.00|
+|laopai|Poland|2.00|
+|dazuan|Germany|-2.00|
+|laotao|Germany|-2.00|
+|Pond|..|-2.00|
+
+### 2016061700 Ukraine 0 : 2 NorthernIreland
 - handicap: -1
 - scorer: laotao
 - owners:
