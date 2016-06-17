@@ -1,23 +1,43 @@
 # E cup guess competition report
 ## real-time ranking
-2016-06-17 22:56:09
+2016-06-18 01:56:57
 
 |rank|name|score|
 |:---:|:---:|:---:|
-|1|laotao|37.07|
-|2|laopai|25.73|
-|3|lc|1.80|
-|4|laoda|0.20|
-|5|xiaobai|-1.73|
-|6|wan|-2.80|
-|7|mother|-7.80|
-|8|dazuan|-18.33|
+|1|laotao|35.07|
+|2|laopai|23.73|
+|3|lc|8.47|
+|4|laoda|3.53|
+|5|wan|0.53|
+|6|xiaobai|-3.73|
+|7|mother|-9.80|
+|8|dazuan|-20.33|
 
 ## Pond
-584.87
+581.53
 
 ## History
 ![image](https://github.com/Anserw/E_Cup/blob/master/plot.jpg)
+### 2016061800 Czech 2 : 2 Croatia
+- handicap: 0.5
+- scorer: laotao
+- owners:
+ - Czech: lc
+ - Croatia: mother
+
+
+|name|guess|score change|
+|:---:|:---:|:---:|
+|wan|Czech|3.33|
+|lc|Czech|6.67|
+|laoda|Czech|3.33|
+|xiaobai|Croatia|-2.00|
+|mother|Croatia|-2.00|
+|laopai|Croatia|-2.00|
+|dazuan|Croatia|-2.00|
+|laotao|Croatia|-2.00|
+|Pond|..|-3.33|
+
 ### 2016061721 Italy 1 : 0 Sweden
 - handicap: -0.5
 - scorer: laotao
