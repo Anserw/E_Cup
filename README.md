@@ -1,23 +1,43 @@
 # E cup guess competition report
 ## real-time ranking
-2016-06-18 01:56:57
+2016-06-18 12:30:44
 
 |rank|name|score|
 |:---:|:---:|:---:|
-|1|laotao|35.07|
-|2|laopai|23.73|
-|3|lc|8.47|
-|4|laoda|3.53|
-|5|wan|0.53|
-|6|xiaobai|-3.73|
-|7|mother|-9.80|
-|8|dazuan|-20.33|
+|1|laotao|33.07|
+|2|laopai|21.73|
+|3|lc|12.47|
+|4|wan|2.53|
+|5|laoda|1.53|
+|6|xiaobai|-1.73|
+|7|mother|-11.80|
+|8|dazuan|-18.33|
 
 ## Pond
-581.53
+579.53
 
 ## History
 ![image](https://github.com/Anserw/E_Cup/blob/master/plot.jpg)
+### 2016061803 Spain 3 : 0 Turkey
+- handicap: -1.5 / -1
+- scorer: laotao
+- owners:
+ - Spain: lc
+ - Turkey: laopai
+
+
+|name|guess|score change|
+|:---:|:---:|:---:|
+|wan|Spain|2.00|
+|lc|Spain|4.00|
+|laoda|Turkey|-2.00|
+|xiaobai|Spain|2.00|
+|mother|Turkey|-2.00|
+|laopai|Turkey|-2.00|
+|dazuan|Spain|2.00|
+|laotao|Turkey|-2.00|
+|Pond|..|-2.00|
+
 ### 2016061800 Czech 2 : 2 Croatia
 - handicap: 0.5
 - scorer: laotao
