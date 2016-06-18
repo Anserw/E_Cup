@@ -1,23 +1,63 @@
 # E cup guess competition report
 ## real-time ranking
-2016-06-18 12:30:44
+2016-06-19 03:31:51
 
 |rank|name|score|
 |:---:|:---:|:---:|
-|1|laotao|33.07|
-|2|laopai|21.73|
-|3|lc|12.47|
-|4|wan|2.53|
-|5|laoda|1.53|
-|6|xiaobai|-1.73|
-|7|mother|-11.80|
-|8|dazuan|-18.33|
+|1|laotao|33.73|
+|2|laopai|19.73|
+|3|lc|13.80|
+|4|wan|3.20|
+|5|laoda|2.20|
+|6|xiaobai|-1.07|
+|7|mother|-13.80|
+|8|dazuan|-17.67|
 
 ## Pond
-579.53
+578.87
 
 ## History
 ![image](https://github.com/Anserw/E_Cup/blob/master/plot.jpg)
+### 2016061900 Iceland 1 : 1 Hungary
+- handicap: 0
+- scorer: laotao
+- owners:
+ - Iceland: xiaobai
+ - Hungary: laotao
+
+
+|name|guess|score change|
+|:---:|:---:|:---:|
+|wan|Hungary|0.00|
+|lc|Iceland|0.00|
+|laoda|Hungary|0.00|
+|xiaobai|Iceland|0.00|
+|mother|Hungary|0.00|
+|laopai|Hungary|0.00|
+|dazuan|Iceland|0.00|
+|laotao|Iceland|0.00|
+|Pond|..|0.00|
+
+### 2016061821 Belgium 3 : 0 Ireland
+- handicap: -0.5
+- scorer: laotao
+- owners:
+ - Belgium: lc
+ - Ireland: laopai
+
+
+|name|guess|score change|
+|:---:|:---:|:---:|
+|wan|Belgium|0.67|
+|lc|Belgium|1.33|
+|laoda|Belgium|0.67|
+|xiaobai|Belgium|0.67|
+|mother|Ireland|-2.00|
+|laopai|Ireland|-2.00|
+|dazuan|Belgium|0.67|
+|laotao|Belgium|0.67|
+|Pond|..|-0.67|
+
 ### 2016061803 Spain 3 : 0 Turkey
 - handicap: -1.5 / -1
 - scorer: laotao
