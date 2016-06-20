@@ -1,23 +1,63 @@
 # E cup guess competition report
 ## real-time ranking
-2016-06-19 10:31:51
+2016-06-20 11:06:14
 
 |rank|name|score|
 |:---:|:---:|:---:|
-|1|laotao|31.73|
+|1|laotao|33.73|
 |2|laopai|31.73|
-|3|lc|11.80|
-|4|wan|1.20|
-|5|laoda|0.20|
+|3|laoda|8.20|
+|4|lc|7.80|
+|5|wan|-2.80|
 |6|xiaobai|-3.07|
-|7|dazuan|-11.67|
-|8|mother|-15.80|
+|7|mother|-5.80|
+|8|dazuan|-15.67|
 
 ## Pond
-572.87
+564.87
 
 ## History
 ![image](https://github.com/Anserw/E_Cup/blob/master/plot.jpg)
+### 2016062003 France 0 : 0 Switzerland
+- handicap: -0.5
+- scorer: laotao
+- owners:
+ - France: laotao
+ - Switzerland: laotao
+
+
+|name|guess|score change|
+|:---:|:---:|:---:|
+|wan|France|-2.00|
+|lc|France|-2.00|
+|laoda|Switzerland|2.00|
+|xiaobai|Switzerland|2.00|
+|mother|France|-2.00|
+|laopai|Switzerland|2.00|
+|dazuan|France|-2.00|
+|laotao|Switzerland|4.00|
+|Pond|..|-2.00|
+
+### 2016062003 Romania 0 : 1 Albania
+- handicap: -0.5 / 0
+- scorer: laotao
+- owners:
+ - Romania: laopai
+ - Albania: mother
+
+
+|name|guess|score change|
+|:---:|:---:|:---:|
+|wan|Romania|-2.00|
+|lc|Romania|-2.00|
+|laoda|Albania|6.00|
+|xiaobai|Romania|-2.00|
+|mother|Albania|12.00|
+|laopai|Romania|-2.00|
+|dazuan|Romania|-2.00|
+|laotao|Romania|-2.00|
+|Pond|..|-6.00|
+
 ### 2016061903 Portugal 0 : 0 Austria
 - handicap: -0.5
 - scorer: laotao
