@@ -16,7 +16,7 @@ def generate_plot(players, pond, matches, teams, bets):
             for player_name in players:
                 player_score_list[player_name].append(report[player_name])
     player_plot_list = []
-    style_list = ['->', '-x', '-d', '-o', '-^', '-1', '-s', '-p']
+    style_list = ['->', '-d', '-x', '-o', '-^', '-1', '-s', '-p']
     for player_name in players:
         player_plot_list.append(pl.plot(
                                     range(len(player_score_list[player_name])),
