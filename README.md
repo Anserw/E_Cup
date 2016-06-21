@@ -1,23 +1,63 @@
 # E cup guess competition report
 ## real-time ranking
-2016-06-20 11:06:14
+2016-06-21 11:27:13
 
 |rank|name|score|
 |:---:|:---:|:---:|
-|1|laotao|33.73|
-|2|laopai|31.73|
-|3|laoda|8.20|
-|4|lc|7.80|
-|5|wan|-2.80|
-|6|xiaobai|-3.07|
-|7|mother|-5.80|
-|8|dazuan|-15.67|
+|1|laopai|34.27|
+|2|laotao|32.93|
+|3|lc|9.67|
+|4|laoda|6.87|
+|5|xiaobai|-0.00|
+|6|wan|-4.13|
+|7|mother|-6.60|
+|8|dazuan|-17.00|
 
 ## Pond
-564.87
+563.00
 
 ## History
 ![image](https://github.com/Anserw/E_Cup/blob/master/plot.jpg)
+### 2016062103 Russia 0 : 3 Welsh
+- handicap: 0
+- scorer: laotao
+- owners:
+ - Russia: dazuan
+ - Welsh: xiaobai
+
+
+|name|guess|score change|
+|:---:|:---:|:---:|
+|wan|Russia|-2.00|
+|lc|Welsh|1.20|
+|laoda|Russia|-2.00|
+|xiaobai|Welsh|2.40|
+|mother|Welsh|1.20|
+|laopai|Welsh|1.20|
+|dazuan|Russia|-2.00|
+|laotao|Welsh|1.20|
+|Pond|..|-1.20|
+
+### 2016062103 Slovakia 0 : 0 England
+- handicap: 0.5 / 1
+- scorer: laotao
+- owners:
+ - Slovakia: laopai
+ - England: mother
+
+
+|name|guess|score change|
+|:---:|:---:|:---:|
+|wan|Slovakia|0.67|
+|lc|Slovakia|0.67|
+|laoda|Slovakia|0.67|
+|xiaobai|Slovakia|0.67|
+|mother|England|-2.00|
+|laopai|Slovakia|1.33|
+|dazuan|Slovakia|0.67|
+|laotao|England|-2.00|
+|Pond|..|-0.67|
+
 ### 2016062003 France 0 : 0 Switzerland
 - handicap: -0.5
 - scorer: laotao
