@@ -1,6 +1,6 @@
 # E cup guess competition report
 ## real-time ranking
-2016-06-23 01:51:35
+2016-06-23 01:54:06
 
 |rank|name|score|win|loss|
 |:---:|:---:|:---:|:---:|:---:|
@@ -38,7 +38,7 @@
 |laotao|Hungary|2.40|
 |Pond|..|-1.20|
 
-### 2016062300 Iceland 1 : 1 Austria
+### 2016062300 Iceland 2 : 1 Austria
 - handicap: 0.5
 - scorer: laotao
 - owners:
