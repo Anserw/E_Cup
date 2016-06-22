@@ -1,6 +1,6 @@
 # E cup guess competition report
 ## real-time ranking
-2016-06-22 11:51:46
+2016-06-22 19:05:56
 
 |rank|name|score|
 |:---:|:---:|:---:|
@@ -18,26 +18,6 @@
 
 ## History
 ![image](https://github.com/Anserw/E_Cup/blob/master/plot.jpg)
-### 2016062203 Croatia 2 : 1 Spain
-- handicap: 0.5
-- scorer: laotao
-- owners:
- - Croatia: mother
- - Spain: lc
-
-
-|name|guess|score change|
-|:---:|:---:|:---:|
-|wan|Spain|-2.00|
-|lc|Spain|-2.00|
-|laoda|Croatia|1.20|
-|xiaobai|Croatia|1.20|
-|mother|Croatia|2.40|
-|laopai|Croatia|1.20|
-|dazuan|Spain|-2.00|
-|laotao|Croatia|1.20|
-|Pond|..|-1.20|
-
 ### 2016062203 Czech 0 : 2 Turkey
 - handicap: 0.5 / 0
 - scorer: laotao
@@ -58,25 +38,25 @@
 |laotao|Czech|-2.00|
 |Pond|..|0.00|
 
-### 2016062200 NorthernIreland 0 : 1 Germany
-- handicap: 1.5
+### 2016062203 Croatia 2 : 1 Spain
+- handicap: 0.5
 - scorer: laotao
 - owners:
- - NorthernIreland: laopai
- - Germany: dazuan
+ - Croatia: mother
+ - Spain: lc
 
 
 |name|guess|score change|
 |:---:|:---:|:---:|
-|wan|NorthernIreland|3.33|
-|lc|Germany|-2.00|
-|laoda|Germany|-2.00|
-|xiaobai|NorthernIreland|3.33|
-|mother|Germany|-2.00|
-|laopai|NorthernIreland|6.67|
-|dazuan|Germany|-2.00|
-|laotao|Germany|-2.00|
-|Pond|..|-3.33|
+|wan|Spain|-2.00|
+|lc|Spain|-2.00|
+|laoda|Croatia|1.20|
+|xiaobai|Croatia|1.20|
+|mother|Croatia|2.40|
+|laopai|Croatia|1.20|
+|dazuan|Spain|-2.00|
+|laotao|Croatia|1.20|
+|Pond|..|-1.20|
 
 ### 2016062200 Ukraine 0 : 1 Poland
 - handicap: 0.5
@@ -97,6 +77,26 @@
 |dazuan|Poland|1.33|
 |laotao|Ukraine|-2.00|
 |Pond|..|-1.33|
+
+### 2016062200 NorthernIreland 0 : 1 Germany
+- handicap: 1.5
+- scorer: laotao
+- owners:
+ - NorthernIreland: laopai
+ - Germany: dazuan
+
+
+|name|guess|score change|
+|:---:|:---:|:---:|
+|wan|NorthernIreland|3.33|
+|lc|Germany|-2.00|
+|laoda|Germany|-2.00|
+|xiaobai|NorthernIreland|3.33|
+|mother|Germany|-2.00|
+|laopai|NorthernIreland|6.67|
+|dazuan|Germany|-2.00|
+|laotao|Germany|-2.00|
+|Pond|..|-3.33|
 
 ### 2016062103 Russia 0 : 3 Welsh
 - handicap: 0
