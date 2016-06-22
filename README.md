@@ -1,23 +1,63 @@
 # E cup guess competition report
 ## real-time ranking
-2016-06-22 01:54:03
+2016-06-22 11:51:46
 
 |rank|name|score|
 |:---:|:---:|:---:|
-|1|laopai|41.60|
-|2|laotao|28.93|
-|3|lc|8.33|
-|4|laoda|5.53|
-|5|xiaobai|4.67|
-|6|wan|-0.13|
-|7|mother|-10.60|
-|8|dazuan|-17.67|
+|1|laopai|40.80|
+|2|laotao|28.13|
+|3|xiaobai|11.87|
+|4|laoda|4.73|
+|5|lc|4.33|
+|6|wan|3.87|
+|7|mother|-10.20|
+|8|dazuan|-21.67|
 
 ## Pond
-558.33
+557.13
 
 ## History
 ![image](https://github.com/Anserw/E_Cup/blob/master/plot.jpg)
+### 2016062203 Croatia 2 : 1 Spain
+- handicap: 0.5
+- scorer: laotao
+- owners:
+ - Croatia: mother
+ - Spain: lc
+
+
+|name|guess|score change|
+|:---:|:---:|:---:|
+|wan|Spain|-2.00|
+|lc|Spain|-2.00|
+|laoda|Croatia|1.20|
+|xiaobai|Croatia|1.20|
+|mother|Croatia|2.40|
+|laopai|Croatia|1.20|
+|dazuan|Spain|-2.00|
+|laotao|Croatia|1.20|
+|Pond|..|-1.20|
+
+### 2016062203 Czech 0 : 2 Turkey
+- handicap: 0.5 / 0
+- scorer: laotao
+- owners:
+ - Czech: lc
+ - Turkey: laopai
+
+
+|name|guess|score change|
+|:---:|:---:|:---:|
+|wan|Turkey|6.00|
+|lc|Czech|-2.00|
+|laoda|Czech|-2.00|
+|xiaobai|Turkey|6.00|
+|mother|Czech|-2.00|
+|laopai|Czech|-2.00|
+|dazuan|Czech|-2.00|
+|laotao|Czech|-2.00|
+|Pond|..|0.00|
+
 ### 2016062200 NorthernIreland 0 : 1 Germany
 - handicap: 1.5
 - scorer: laotao
