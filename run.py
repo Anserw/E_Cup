@@ -11,13 +11,14 @@ def generate_markdown(players, players_stat, pond, matches, teams, bets, filenam
     ISOTIMEFORMAT='%Y-%m-%d %X'
     md += time.strftime( ISOTIMEFORMAT, time.localtime()) + '\n'
 
-    md += "\n|rank|name|score|win rate|\n|:---:|:---:|:---:|:---:|\n"
+    md += "\n|rank|name|score|win|loss|\n|:---:|:---:|:---:|:---:|:---:|\n"
     rank = 0
     matches_sum = len(matches)
     for player_name in sorted(players, key=lambda p: players[p], reverse=True):
         rank += 1
         md += '|' + str(rank) + '|' + player_name + '|' + "%.2f" % players[player_name] + '|' \
-            + "%.0f%%" % (players_stat[player_name]["win"] / matches_sum * 100) + '|\n'
+            + "%.0f%%" % (players_stat[player_name]["win"] / matches_sum * 100) + '|' \
+            + "%.0f%%" % (players_stat[player_name]["loss"] / matches_sum * 100) + '|\n'
 
     md += "\n## Pond\n" + "%.2f" % pond["sum"] + '\n'
 
