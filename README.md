@@ -1,43 +1,23 @@
 # E cup guess competition report
 ## real-time ranking
-2016-06-22 19:05:56
+2016-06-22 21:25:40
 
-|rank|name|score|
-|:---:|:---:|:---:|
-|1|laopai|40.80|
-|2|laotao|28.13|
-|3|xiaobai|11.87|
-|4|laoda|4.73|
-|5|lc|4.33|
-|6|wan|3.87|
-|7|mother|-10.20|
-|8|dazuan|-21.67|
+|rank|name|score|win rate|
+|:---:|:---:|:---:|:---:|
+|1|laopai|40.80|58%|
+|2|laotao|28.13|42%|
+|3|xiaobai|11.87|54%|
+|4|laoda|4.73|50%|
+|5|lc|4.33|49%|
+|6|wan|3.87|47%|
+|7|mother|-10.20|33%|
+|8|dazuan|-21.67|31%|
 
 ## Pond
 557.13
 
 ## History
 ![image](https://github.com/Anserw/E_Cup/blob/master/plot.jpg)
-### 2016062203 Czech 0 : 2 Turkey
-- handicap: 0.5 / 0
-- scorer: laotao
-- owners:
- - Czech: lc
- - Turkey: laopai
-
-
-|name|guess|score change|
-|:---:|:---:|:---:|
-|wan|Turkey|6.00|
-|lc|Czech|-2.00|
-|laoda|Czech|-2.00|
-|xiaobai|Turkey|6.00|
-|mother|Czech|-2.00|
-|laopai|Czech|-2.00|
-|dazuan|Czech|-2.00|
-|laotao|Czech|-2.00|
-|Pond|..|0.00|
-
 ### 2016062203 Croatia 2 : 1 Spain
 - handicap: 0.5
 - scorer: laotao
@@ -58,25 +38,25 @@
 |laotao|Croatia|1.20|
 |Pond|..|-1.20|
 
-### 2016062200 Ukraine 0 : 1 Poland
-- handicap: 0.5
+### 2016062203 Czech 0 : 2 Turkey
+- handicap: 0.5 / 0
 - scorer: laotao
 - owners:
- - Ukraine: dazuan
- - Poland: xiaobai
+ - Czech: lc
+ - Turkey: laopai
 
 
 |name|guess|score change|
 |:---:|:---:|:---:|
-|wan|Poland|0.67|
-|lc|Poland|0.67|
-|laoda|Poland|0.67|
-|xiaobai|Poland|1.33|
-|mother|Ukraine|-2.00|
-|laopai|Poland|0.67|
-|dazuan|Poland|1.33|
-|laotao|Ukraine|-2.00|
-|Pond|..|-1.33|
+|wan|Turkey|6.00|
+|lc|Czech|-2.00|
+|laoda|Czech|-2.00|
+|xiaobai|Turkey|6.00|
+|mother|Czech|-2.00|
+|laopai|Czech|-2.00|
+|dazuan|Czech|-2.00|
+|laotao|Czech|-2.00|
+|Pond|..|0.00|
 
 ### 2016062200 NorthernIreland 0 : 1 Germany
 - handicap: 1.5
@@ -97,6 +77,26 @@
 |dazuan|Germany|-2.00|
 |laotao|Germany|-2.00|
 |Pond|..|-3.33|
+
+### 2016062200 Ukraine 0 : 1 Poland
+- handicap: 0.5
+- scorer: laotao
+- owners:
+ - Ukraine: dazuan
+ - Poland: xiaobai
+
+
+|name|guess|score change|
+|:---:|:---:|:---:|
+|wan|Poland|0.67|
+|lc|Poland|0.67|
+|laoda|Poland|0.67|
+|xiaobai|Poland|1.33|
+|mother|Ukraine|-2.00|
+|laopai|Poland|0.67|
+|dazuan|Poland|1.33|
+|laotao|Ukraine|-2.00|
+|Pond|..|-1.33|
 
 ### 2016062103 Russia 0 : 3 Welsh
 - handicap: 0

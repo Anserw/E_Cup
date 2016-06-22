@@ -11,19 +11,19 @@ def winner(teamA, teamB, scoreA, scoreB, handicap):
 
 def betReward(bet_data, winner_name, players):
     correct_count = 0
-    wrong_count = 0
+    loss_count = 0
     for player in bet_data:
         if player in players:
             if bet_data[player] == winner_name:
                 correct_count += 1
             else:
-                wrong_count += 1
+                loss_count += 1
     if correct_count == 0:
         return 0
-    return float(float(wrong_count) / correct_count)
+    return float(float(loss_count) / correct_count)
 
 
-def process(players, teams, match_data, bet_data, pond):
+def process(players, teams, match_data, bet_data, pond, players_stat=None):
     winners = list()
     winners.append(winner(match_data["teamA"],
                           match_data["teamB"],
@@ -46,11 +46,14 @@ def process(players, teams, match_data, bet_data, pond):
                 if bet_data[player] == winner_name:
                     players[player] += correct_reward
                     players[match_data["scorer"]] += scorer_reward
+                    if players_stat is not None:
+                        players_stat[player]["win"] += 0.5
 
                     if teams[match_data["teamA"]] == player or teams[match_data["teamB"]] == player:
                         players[player] += correct_reward
                         pond["sum"] -= correct_reward + scorer_reward
                         players[match_data["scorer"]] += scorer_reward
-
                 else:
                     players[player] -= stack
+                    if players_stat is not None:
+                        players_stat[player]["loss"] += 0.5

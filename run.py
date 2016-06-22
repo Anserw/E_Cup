@@ -2,19 +2,22 @@ import loader
 import core
 import time
 import plot
+import copy
 
-def generate_markdown(players, pond, matches, teams, bets, filename="README.md"):
+def generate_markdown(players, players_stat, pond, matches, teams, bets, filename="README.md"):
     md = u'''# E cup guess competition report
 ## real-time ranking
 '''
     ISOTIMEFORMAT='%Y-%m-%d %X'
     md += time.strftime( ISOTIMEFORMAT, time.localtime()) + '\n'
 
-    md += "\n|rank|name|score|\n|:---:|:---:|:---:|\n"
+    md += "\n|rank|name|score|win rate|\n|:---:|:---:|:---:|:---:|\n"
     rank = 0
+    matches_sum = len(matches)
     for player_name in sorted(players, key=lambda p: players[p], reverse=True):
         rank += 1
-        md += '|' + str(rank) + '|' + player_name + '|' + "%.2f" % players[player_name] + '|\n'
+        md += '|' + str(rank) + '|' + player_name + '|' + "%.2f" % players[player_name] + '|' \
+            + "%.0f%%" % (players_stat[player_name]["win"] / matches_sum * 100) + '|\n'
 
     md += "\n## Pond\n" + "%.2f" % pond["sum"] + '\n'
 
@@ -62,9 +65,12 @@ if __name__ == "__main__":
     matches = loader.loadMatch()
     bets = loader.loadBet()
     pond = loader.loadPond()
+    players_stat = copy.deepcopy(players)
+    for a_player in players_stat:
+        players_stat[a_player] = {"win": 0.0, "loss": 0.0}
     # reports = dict()
     for a_match in matches:
-        core.process(players, teams, a_match, bets[a_match["ID"]], pond)
+        core.process(players, teams, a_match, bets[a_match["ID"]], pond, players_stat)
         # report = dict()
         # pond_report = {"sum": 0}
         # for player_name in players:
@@ -79,7 +85,7 @@ if __name__ == "__main__":
         plot.generate_plot(players, pond, matches, teams, bets)
     except:
         print "Error: cannot draw a plot!"
-    generate_markdown(players, pond, matches, teams, bets)
+    generate_markdown(players, players_stat, pond, matches, teams, bets)
     print "all done."
 
 
