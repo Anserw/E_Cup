@@ -4,9 +4,9 @@
     "ID": "20160623ItalyIreland", 
     "date": "2016062303", 
     "scoreA": 0, 
-    "scoreB": 0, 
+    "scoreB": 1,
     "scorer": "laotao", 
     "teamA": "Italy", 
     "teamB": "Ireland", 
-    "weight": 0
+    "weight": 2
 }
