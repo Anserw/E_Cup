@@ -1,23 +1,63 @@
 # E cup guess competition report
 ## real-time ranking
-2016-06-23 12:05:47
+2016-06-26 01:59:36
 
 |rank|name|score|win|loss|
 |:---:|:---:|:---:|:---:|:---:|
-|1|laopai|46.40|58%|29%|
-|2|laotao|27.73|39%|49%|
-|3|xiaobai|20.13|57%|31%|
-|4|wan|6.40|47%|40%|
-|5|lc|6.07|49%|39%|
-|6|laoda|2.60|47%|40%|
-|7|mother|-11.53|31%|57%|
-|8|dazuan|-27.00|25%|62%|
+|1|laopai|49.07|56%|27%|
+|2|laotao|23.73|36%|47%|
+|3|xiaobai|22.80|55%|28%|
+|4|lc|7.40|47%|36%|
+|5|laoda|3.93|46%|37%|
+|6|wan|2.40|44%|40%|
+|7|mother|-10.20|31%|53%|
+|8|dazuan|-25.67|26%|58%|
 
 ## Pond
-548.20
+545.53
 
 ## History
 ![image](https://github.com/Anserw/E_Cup/blob/master/plot.jpg)
+### 2016062600 Welsh 1 : 0 NorthernIreland
+- handicap: -0.5
+- scorer: laotao
+- owners:
+ - Welsh: xiaobai
+ - NorthernIreland: laopai
+
+
+|name|guess|score change|
+|:---:|:---:|:---:|
+|wan|NorthernIreland|-4.00|
+|lc|Welsh|1.33|
+|laoda|Welsh|1.33|
+|xiaobai|Welsh|2.67|
+|mother|Welsh|1.33|
+|laopai|Welsh|2.67|
+|dazuan|Welsh|1.33|
+|laotao|NorthernIreland|-4.00|
+|Pond|..|-2.67|
+
+### 2016062521 Switzerland 1 : 1 Poland
+- handicap: 0
+- scorer: laotao
+- owners:
+ - Switzerland: laotao
+ - Poland: xiaobai
+
+
+|name|guess|score change|
+|:---:|:---:|:---:|
+|wan|Poland|0.00|
+|lc|Switzerland|0.00|
+|laoda|Poland|0.00|
+|xiaobai|Poland|0.00|
+|mother|Switzerland|0.00|
+|laopai|Switzerland|0.00|
+|dazuan|Poland|0.00|
+|laotao|Poland|0.00|
+|Pond|..|0.00|
+
 ### 2016062303 Italy 0 : 1 Ireland
 - handicap: -0.5 / 0
 - scorer: laotao
