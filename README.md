@@ -1,6 +1,6 @@
 # E cup guess competition report
 ## real-time ranking
-2016-06-26 01:59:36
+2016-06-26 17:32:07
 
 |rank|name|score|win|loss|
 |:---:|:---:|:---:|:---:|:---:|
@@ -18,6 +18,26 @@
 
 ## History
 ![image](https://github.com/Anserw/E_Cup/blob/master/plot.jpg)
+### 2016062603 Croatia 0 : 0 Portugal
+- handicap: 0
+- scorer: laotao
+- owners:
+ - Croatia: mother
+ - Portugal: laoda
+
+
+|name|guess|score change|
+|:---:|:---:|:---:|
+|wan|Croatia|0.00|
+|lc|Croatia|0.00|
+|laoda|Croatia|0.00|
+|xiaobai|Croatia|0.00|
+|mother|Croatia|0.00|
+|laopai|Croatia|0.00|
+|dazuan|Croatia|0.00|
+|laotao|Croatia|0.00|
+|Pond|..|0.00|
+
 ### 2016062600 Welsh 1 : 0 NorthernIreland
 - handicap: -0.5
 - scorer: laotao
