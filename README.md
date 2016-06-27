@@ -1,23 +1,43 @@
 # E cup guess competition report
 ## real-time ranking
-2016-06-27 14:16:43
+2016-06-28 01:53:29
 
 |rank|name|score|win|loss|
 |:---:|:---:|:---:|:---:|:---:|
-|1|laopai|41.07|52%|30%|
-|2|xiaobai|27.60|56%|26%|
-|3|laotao|15.73|33%|49%|
-|4|lc|14.60|49%|33%|
-|5|laoda|8.73|48%|35%|
-|6|wan|7.20|45%|37%|
-|7|mother|-5.40|33%|49%|
-|8|dazuan|-33.67|24%|58%|
+|1|xiaobai|40.93|56%|27%|
+|2|laopai|37.07|50%|33%|
+|3|laotao|22.40|34%|49%|
+|4|lc|10.60|47%|36%|
+|5|laoda|4.73|45%|38%|
+|6|wan|3.20|43%|40%|
+|7|mother|-9.40|32%|51%|
+|8|dazuan|-27.00|25%|58%|
 
 ## Pond
-543.13
+536.47
 
 ## History
 ![image](https://github.com/Anserw/E_Cup/blob/master/plot.jpg)
+### 2016062800 Italy 2 : 0 Spain
+- handicap: 0.5
+- scorer: laotao
+- owners:
+ - Italy: xiaobai
+ - Spain: lc
+
+
+|name|guess|score change|
+|:---:|:---:|:---:|
+|wan|Spain|-4.00|
+|lc|Spain|-4.00|
+|laoda|Spain|-4.00|
+|xiaobai|Italy|13.33|
+|mother|Spain|-4.00|
+|laopai|Spain|-4.00|
+|dazuan|Italy|6.67|
+|laotao|Italy|6.67|
+|Pond|..|-6.67|
+
 ### 2016062703 Hungary 0 : 4 Belgium
 - handicap: 1 / 0.5
 - scorer: laotao
@@ -138,26 +158,6 @@
 |laotao|Poland|0.00|
 |Pond|..|0.00|
 
-### 2016062303 Sweden 0 : 1 Belgium
-- handicap: 0.5
-- scorer: laotao
-- owners:
- - Sweden: wan
- - Belgium: lc
-
-
-|name|guess|score change|
-|:---:|:---:|:---:|
-|wan|Belgium|1.33|
-|lc|Belgium|1.33|
-|laoda|Belgium|0.67|
-|xiaobai|Belgium|0.67|
-|mother|Belgium|0.67|
-|laopai|Sweden|-2.00|
-|dazuan|Belgium|0.67|
-|laotao|Sweden|-2.00|
-|Pond|..|-1.33|
-
 ### 2016062303 Italy 0 : 1 Ireland
 - handicap: -0.5 / 0
 - scorer: laotao
@@ -177,6 +177,26 @@
 |dazuan|Italy|-2.00|
 |laotao|Ireland|1.20|
 |Pond|..|-2.40|
+
+### 2016062303 Sweden 0 : 1 Belgium
+- handicap: 0.5
+- scorer: laotao
+- owners:
+ - Sweden: wan
+ - Belgium: lc
+
+
+|name|guess|score change|
+|:---:|:---:|:---:|
+|wan|Belgium|1.33|
+|lc|Belgium|1.33|
+|laoda|Belgium|0.67|
+|xiaobai|Belgium|0.67|
+|mother|Belgium|0.67|
+|laopai|Sweden|-2.00|
+|dazuan|Belgium|0.67|
+|laotao|Sweden|-2.00|
+|Pond|..|-1.33|
 
 ### 2016062300 Hungary 3 : 3 Portugal
 - handicap: 1.5 / 1
@@ -218,26 +238,6 @@
 |laotao|Austria|-2.00|
 |Pond|..|-4.00|
 
-### 2016062203 Czech 0 : 2 Turkey
-- handicap: 0.5 / 0
-- scorer: laotao
-- owners:
- - Czech: lc
- - Turkey: laopai
-
-
-|name|guess|score change|
-|:---:|:---:|:---:|
-|wan|Turkey|6.00|
-|lc|Czech|-2.00|
-|laoda|Czech|-2.00|
-|xiaobai|Turkey|6.00|
-|mother|Czech|-2.00|
-|laopai|Czech|-2.00|
-|dazuan|Czech|-2.00|
-|laotao|Czech|-2.00|
-|Pond|..|0.00|
-
 ### 2016062203 Croatia 2 : 1 Spain
 - handicap: 0.5
 - scorer: laotao
@@ -258,25 +258,25 @@
 |laotao|Croatia|1.20|
 |Pond|..|-1.20|
 
-### 2016062200 Ukraine 0 : 1 Poland
-- handicap: 0.5
+### 2016062203 Czech 0 : 2 Turkey
+- handicap: 0.5 / 0
 - scorer: laotao
 - owners:
- - Ukraine: dazuan
- - Poland: xiaobai
+ - Czech: lc
+ - Turkey: laopai
 
 
 |name|guess|score change|
 |:---:|:---:|:---:|
-|wan|Poland|0.67|
-|lc|Poland|0.67|
-|laoda|Poland|0.67|
-|xiaobai|Poland|1.33|
-|mother|Ukraine|-2.00|
-|laopai|Poland|0.67|
-|dazuan|Poland|1.33|
-|laotao|Ukraine|-2.00|
-|Pond|..|-1.33|
+|wan|Turkey|6.00|
+|lc|Czech|-2.00|
+|laoda|Czech|-2.00|
+|xiaobai|Turkey|6.00|
+|mother|Czech|-2.00|
+|laopai|Czech|-2.00|
+|dazuan|Czech|-2.00|
+|laotao|Czech|-2.00|
+|Pond|..|0.00|
 
 ### 2016062200 NorthernIreland 0 : 1 Germany
 - handicap: 1.5
@@ -297,6 +297,26 @@
 |dazuan|Germany|-2.00|
 |laotao|Germany|-2.00|
 |Pond|..|-3.33|
+
+### 2016062200 Ukraine 0 : 1 Poland
+- handicap: 0.5
+- scorer: laotao
+- owners:
+ - Ukraine: dazuan
+ - Poland: xiaobai
+
+
+|name|guess|score change|
+|:---:|:---:|:---:|
+|wan|Poland|0.67|
+|lc|Poland|0.67|
+|laoda|Poland|0.67|
+|xiaobai|Poland|1.33|
+|mother|Ukraine|-2.00|
+|laopai|Poland|0.67|
+|dazuan|Poland|1.33|
+|laotao|Ukraine|-2.00|
+|Pond|..|-1.33|
 
 ### 2016062103 Russia 0 : 3 Welsh
 - handicap: 0
