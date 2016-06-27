@@ -1,17 +1,17 @@
 # E cup guess competition report
 ## real-time ranking
-2016-06-27 14:07:29
+2016-06-27 14:16:43
 
 |rank|name|score|win|loss|
 |:---:|:---:|:---:|:---:|:---:|
-|1|laopai|41.07|52%|32%|
-|2|xiaobai|27.60|56%|29%|
-|3|laotao|15.73|36%|49%|
-|4|lc|14.60|51%|33%|
-|5|laoda|8.73|48%|37%|
-|6|wan|7.20|45%|39%|
-|7|mother|-5.40|33%|51%|
-|8|dazuan|-33.67|26%|58%|
+|1|laopai|41.07|52%|30%|
+|2|xiaobai|27.60|56%|26%|
+|3|laotao|15.73|33%|49%|
+|4|lc|14.60|49%|33%|
+|5|laoda|8.73|48%|35%|
+|6|wan|7.20|45%|37%|
+|7|mother|-5.40|33%|49%|
+|8|dazuan|-33.67|24%|58%|
 
 ## Pond
 543.13
@@ -58,6 +58,26 @@
 |laotao|Slovakia|-4.00|
 |Pond|..|0.00|
 
+### 2016062621 France 2 : 1 Ireland
+- handicap: -1
+- scorer: laotao
+- owners:
+ - France: laotao
+ - Ireland: laopai
+
+
+|name|guess|score change|
+|:---:|:---:|:---:|
+|wan|France|0.00|
+|lc|Ireland|0.00|
+|laoda|France|0.00|
+|xiaobai|France|0.00|
+|mother|France|0.00|
+|laopai|France|0.00|
+|dazuan|Ireland|0.00|
+|laotao|Ireland|0.00|
+|Pond|..|0.00|
+
 ### 2016062603 Croatia 0 : 0 Portugal
 - handicap: 0
 - scorer: laotao
@@ -70,11 +90,11 @@
 |:---:|:---:|:---:|
 |wan|Croatia|0.00|
 |lc|Croatia|0.00|
-|laoda|Croatia|0.00|
-|xiaobai|Croatia|0.00|
+|laoda|Portugal|0.00|
+|xiaobai|Portugal|0.00|
 |mother|Croatia|0.00|
 |laopai|Croatia|0.00|
-|dazuan|Croatia|0.00|
+|dazuan|Portugal|0.00|
 |laotao|Croatia|0.00|
 |Pond|..|0.00|
 
