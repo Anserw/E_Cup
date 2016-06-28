@@ -1,23 +1,43 @@
 # E cup guess competition report
 ## real-time ranking
-2016-06-28 01:53:29
+2016-06-28 11:20:54
 
 |rank|name|score|win|loss|
 |:---:|:---:|:---:|:---:|:---:|
-|1|xiaobai|40.93|56%|27%|
-|2|laopai|37.07|50%|33%|
-|3|laotao|22.40|34%|49%|
-|4|lc|10.60|47%|36%|
-|5|laoda|4.73|45%|38%|
-|6|wan|3.20|43%|40%|
-|7|mother|-9.40|32%|51%|
-|8|dazuan|-27.00|25%|58%|
+|1|xiaobai|54.27|58%|25%|
+|2|laopai|33.07|50%|33%|
+|3|laotao|29.07|36%|47%|
+|4|wan|9.87|45%|38%|
+|5|lc|6.60|47%|36%|
+|6|laoda|0.73|45%|38%|
+|7|mother|-13.40|32%|51%|
+|8|dazuan|-31.00|25%|58%|
 
 ## Pond
-536.47
+529.80
 
 ## History
 ![image](https://github.com/Anserw/E_Cup/blob/master/plot.jpg)
+### 2016062803 England 1 : 2 Iceland
+- handicap: -1
+- scorer: laotao
+- owners:
+ - England: mother
+ - Iceland: xiaobai
+
+
+|name|guess|score change|
+|:---:|:---:|:---:|
+|wan|Iceland|6.67|
+|lc|England|-4.00|
+|laoda|England|-4.00|
+|xiaobai|Iceland|13.33|
+|mother|England|-4.00|
+|laopai|England|-4.00|
+|dazuan|England|-4.00|
+|laotao|Iceland|6.67|
+|Pond|..|-6.67|
+
 ### 2016062800 Italy 2 : 0 Spain
 - handicap: 0.5
 - scorer: laotao
