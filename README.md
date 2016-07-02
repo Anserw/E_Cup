@@ -1,23 +1,43 @@
 # E cup guess competition report
 ## real-time ranking
-2016-07-02 12:01:49
+2016-07-03 04:54:51
 
 |rank|name|score|win|loss|
 |:---:|:---:|:---:|:---:|:---:|
-|1|xiaobai|76.27|59%|24%|
-|2|laopai|44.07|51%|32%|
-|3|laotao|24.07|36%|47%|
-|4|laoda|7.73|46%|37%|
-|5|wan|4.87|45%|38%|
-|6|lc|1.60|46%|37%|
-|7|mother|-22.40|30%|52%|
-|8|dazuan|-36.00|25%|58%|
+|1|xiaobai|86.27|59%|23%|
+|2|laopai|41.07|50%|32%|
+|3|laotao|29.07|36%|46%|
+|4|laoda|4.73|45%|37%|
+|5|wan|1.87|44%|38%|
+|6|lc|-1.40|45%|37%|
+|7|mother|-17.40|31%|51%|
+|8|dazuan|-39.00|24%|57%|
 
 ## Pond
-518.80
+513.80
 
 ## History
 ![image](https://github.com/Anserw/E_Cup/blob/master/plot.jpg)
+### 2016070303 Italy 1 : 1 Germany
+- handicap: 0.5 / 0
+- scorer: laotao
+- owners:
+ - Italy: xiaobai
+ - Germany: dazuan
+
+
+|name|guess|score change|
+|:---:|:---:|:---:|
+|wan|Germany|-3.00|
+|lc|Germany|-3.00|
+|laoda|Germany|-3.00|
+|xiaobai|Italy|10.00|
+|mother|Italy|5.00|
+|laopai|Germany|-3.00|
+|dazuan|Germany|-3.00|
+|laotao|Italy|5.00|
+|Pond|..|-5.00|
+
 ### 2016070203 Welsh 3 : 1 Belgium
 - handicap: 0.5 / 1
 - scorer: laotao
