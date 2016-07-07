@@ -30,9 +30,9 @@ def generate_default_match_data(teamA, teamB, date, time, handicap1, handicap2, 
 
 
 if __name__ == "__main__":
-    teamA = "Italy"
-    teamB = "Germany"
-    date = "20160703"
+    teamA = "Welsh"
+    teamB = "Portugal"
+    date = "20160707"
     time = "03"
     handicap1 = 0.5
     handicap2 = 0

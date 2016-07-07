@@ -1,23 +1,43 @@
 # E cup guess competition report
 ## real-time ranking
-2016-07-03 04:54:51
+2016-07-07 11:47:51
 
 |rank|name|score|win|loss|
 |:---:|:---:|:---:|:---:|:---:|
-|1|xiaobai|86.27|59%|23%|
-|2|laopai|41.07|50%|32%|
-|3|laotao|29.07|36%|46%|
-|4|laoda|4.73|45%|37%|
-|5|wan|1.87|44%|38%|
-|6|lc|-1.40|45%|37%|
-|7|mother|-17.40|31%|51%|
-|8|dazuan|-39.00|24%|57%|
+|1|xiaobai|78.27|57%|25%|
+|2|laopai|33.07|49%|33%|
+|3|laotao|21.07|35%|47%|
+|4|laoda|20.73|46%|36%|
+|5|lc|6.60|46%|36%|
+|6|wan|-6.13|43%|40%|
+|7|mother|-9.40|32%|50%|
+|8|dazuan|-31.00|26%|56%|
 
 ## Pond
-513.80
+505.80
 
 ## History
 ![image](https://github.com/Anserw/E_Cup/blob/master/plot.jpg)
+### 2016070703 Welsh 0 : 2 Portugal
+- handicap: 0.5 / 0
+- scorer: laotao
+- owners:
+ - Welsh: xiaobai
+ - Portugal: laoda
+
+
+|name|guess|score change|
+|:---:|:---:|:---:|
+|wan|Welsh|-8.00|
+|lc|Portugal|8.00|
+|laoda|Portugal|16.00|
+|xiaobai|Welsh|-8.00|
+|mother|Portugal|8.00|
+|laopai|Welsh|-8.00|
+|dazuan|Portugal|8.00|
+|laotao|Welsh|-8.00|
+|Pond|..|-8.00|
+
 ### 2016070303 Italy 1 : 1 Germany
 - handicap: 0.5 / 0
 - scorer: laotao
