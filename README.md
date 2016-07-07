@@ -1,17 +1,17 @@
 # E cup guess competition report
 ## real-time ranking
-2016-07-07 11:47:51
+2016-07-07 11:50:47
 
 |rank|name|score|win|loss|
 |:---:|:---:|:---:|:---:|:---:|
-|1|xiaobai|78.27|57%|25%|
-|2|laopai|33.07|49%|33%|
-|3|laotao|21.07|35%|47%|
-|4|laoda|20.73|46%|36%|
-|5|lc|6.60|46%|36%|
-|6|wan|-6.13|43%|40%|
-|7|mother|-9.40|32%|50%|
-|8|dazuan|-31.00|26%|56%|
+|1|xiaobai|72.27|56%|27%|
+|2|laopai|27.07|48%|35%|
+|3|laotao|15.07|35%|48%|
+|4|laoda|14.73|45%|38%|
+|5|dazuan|11.00|28%|55%|
+|6|lc|0.60|45%|38%|
+|7|wan|-12.13|42%|41%|
+|8|mother|-15.40|32%|51%|
 
 ## Pond
 505.80
@@ -37,6 +37,26 @@
 |dazuan|Portugal|8.00|
 |laotao|Welsh|-8.00|
 |Pond|..|-8.00|
+
+### 2016070403 Iceland 2 : 5 France
+- handicap: 1.5 / 1
+- scorer: laotao
+- owners:
+ - Iceland: xiaobai
+ - France: laotao
+
+
+|name|guess|score change|
+|:---:|:---:|:---:|
+|wan|Iceland|-6.00|
+|lc|Iceland|-6.00|
+|laoda|Iceland|-6.00|
+|xiaobai|Iceland|-6.00|
+|mother|Iceland|-6.00|
+|laopai|Iceland|-6.00|
+|dazuan|France|42.00|
+|laotao|Iceland|-6.00|
+|Pond|..|0.00|
 
 ### 2016070303 Italy 1 : 1 Germany
 - handicap: 0.5 / 0
