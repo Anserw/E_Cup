@@ -1,23 +1,43 @@
 # E cup guess competition report
 ## real-time ranking
-2016-07-07 11:50:47
+2016-07-08 04:54:57
 
 |rank|name|score|win|loss|
 |:---:|:---:|:---:|:---:|:---:|
-|1|xiaobai|72.27|56%|27%|
-|2|laopai|27.07|48%|35%|
-|3|laotao|15.07|35%|48%|
-|4|laoda|14.73|45%|38%|
-|5|dazuan|11.00|28%|55%|
-|6|lc|0.60|45%|38%|
-|7|wan|-12.13|42%|41%|
-|8|mother|-15.40|32%|51%|
+|1|xiaobai|64.27|55%|28%|
+|2|laotao|24.67|36%|47%|
+|3|dazuan|20.60|29%|54%|
+|4|laoda|19.53|46%|37%|
+|5|laopai|19.07|47%|36%|
+|6|wan|-7.33|43%|40%|
+|7|lc|-7.40|44%|39%|
+|8|mother|-10.60|33%|50%|
 
 ## Pond
-505.80
+496.20
 
 ## History
 ![image](https://github.com/Anserw/E_Cup/blob/master/plot.jpg)
+### 2016070803 France 2 : 0 Germany
+- handicap: 0
+- scorer: laotao
+- owners:
+ - France: laotao
+ - Germany: dazuan
+
+
+|name|guess|score change|
+|:---:|:---:|:---:|
+|wan|France|4.80|
+|lc|Germany|-8.00|
+|laoda|France|4.80|
+|xiaobai|Germany|-8.00|
+|mother|France|4.80|
+|laopai|Germany|-8.00|
+|dazuan|France|9.60|
+|laotao|France|9.60|
+|Pond|..|-9.60|
+
 ### 2016070703 Welsh 0 : 2 Portugal
 - handicap: 0.5 / 0
 - scorer: laotao
