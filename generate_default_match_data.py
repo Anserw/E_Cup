@@ -31,11 +31,11 @@ def generate_default_match_data(teamA, teamB, date, time, handicap1, handicap2, 
 
 if __name__ == "__main__":
     teamA = "France"
-    teamB = "Germany"
-    date = "20160708"
+    teamB = "Portugal"
+    date = "20160711"
     time = "03"
-    handicap1 = 0
-    handicap2 = 0
+    handicap1 = -0.5
+    handicap2 = -0.5
     players = loader.loadPlayers()
     generate_default_match_data(teamA, teamB, date, time, handicap1, handicap2, players)
 
